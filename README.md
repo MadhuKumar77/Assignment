@@ -9,7 +9,7 @@
 # 3. Employe Details
 ![Employe List](https://github.com/MadhuKumar77/Assignment/blob/master/Screenshots/Image2.jpeg "Employe List")
 
-# 4. Add EMploye
+# 4. Add Employe
 ![Employe List](https://github.com/MadhuKumar77/Assignment/blob/master/Screenshots/Image3.jpeg "Employe List")
 
 
